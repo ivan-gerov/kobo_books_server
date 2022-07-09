@@ -2,7 +2,7 @@ import http.server
 import socketserver
 
 HOST = "192.168.1.103"
-PORT = 8000
+PORT = 80
 DIRECTORY = "books"
 
 
